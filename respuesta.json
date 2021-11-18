@@ -1,0 +1,87 @@
+{
+    "object": "database",
+    "id": "727658a3-758b-48c3-a556-d20cdb4c4a38",
+    "cover": null,
+    "icon": null,
+    "created_time": "2021-11-17T20:44:00.000Z",
+    "last_edited_time": "2021-11-18T18:29:00.000Z",
+    "title": [],
+    "properties": {
+        "PATENTE": {
+            "id": "%3EWPa",
+            "name": "PATENTE",
+            "type": "rich_text",
+            "rich_text": {}
+        },
+        "OT": {
+            "id": "KQ%7BM",
+            "name": "OT",
+            "type": "number",
+            "number": {
+                "format": "number"
+            }
+        },
+        "SERVICIO": {
+            "id": "_MiW",
+            "name": "SERVICIO",
+            "type": "rich_text",
+            "rich_text": {}
+        },
+        "FECHA": {
+            "id": "lrW%3D",
+            "name": "FECHA",
+            "type": "date",
+            "date": {}
+        },
+        "TIPO DE MANTENCIÓN": {
+            "id": "pkb%3C",
+            "name": "TIPO DE MANTENCIÓN",
+            "type": "select",
+            "select": {
+                "options": [
+                    {
+                        "id": "c1867623-5538-4e65-9f54-d573bee0da8d",
+                        "name": "CORRECTIVA",
+                        "color": "red"
+                    },
+                    {
+                        "id": "7b5b356d-2463-4cb6-b240-25f77428b756",
+                        "name": "CHEQUEO GENERAL",
+                        "color": "blue"
+                    },
+                    {
+                        "id": "9980a990-6c1c-4271-ae68-04b19921ca75",
+                        "name": "PREVENTIVA",
+                        "color": "yellow"
+                    },
+                    {
+                        "id": "6922e85d-b917-4e17-b5ed-297cb4141480",
+                        "name": "IMPLEMENTACION",
+                        "color": "gray"
+                    },
+                    {
+                        "id": "7e4cbdf9-890f-42e5-8d05-56d8aad7362e",
+                        "name": "CHEQUEO",
+                        "color": "brown"
+                    }
+                ]
+            }
+        },
+        "VALOR": {
+            "id": "uQ%3D%7C",
+            "type": "number",
+            "number": 2000
+        },
+        "Name": {
+            "id": "title",
+            "name": "Name",
+            "type": "title",
+            "title": {}
+        }
+    },
+    "parent": {
+        "type": "page_id",
+        "page_id": "5eab919e-ebcc-44ac-ae6e-743baae08d9e"
+    },
+    "url": "https://www.notion.so/727658a3758b48c3a556d20cdb4c4a38"
+}

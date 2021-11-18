@@ -1,0 +1,112 @@
+{
+    "object": "page",
+    "id": "0750666b-7a21-4f82-8b7f-62a54c761f98",
+    "created_time": "2021-11-17T20:44:00.000Z",
+    "last_edited_time": "2021-11-18T18:55:00.000Z",
+    "cover": null,
+    "icon": null,
+    "parent": {
+        "type": "database_id",
+        "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+    },
+    "archived": false,
+    "properties": {
+        "PATENTE": {
+            "id": "%3EWPa",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "dsfsdaf64",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "dsfsdaf64",
+                    "href": null
+                }
+            ]
+        },
+        "OT": {
+            "id": "KQ%7BM",
+            "type": "number",
+            "number": 4123
+        },
+        "SERVICIO": {
+            "id": "_MiW",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "dsgasgasdgasdgdasgsad",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "dsgasgasdgasdgdasgsad",
+                    "href": null
+                }
+            ]
+        },
+        "FECHA": {
+            "id": "lrW%3D",
+            "type": "date",
+            "date": {
+                "start": "2021-11-25",
+                "end": null
+            }
+        },
+        "TIPO DE MANTENCIÓN": {
+            "id": "pkb%3C",
+            "type": "select",
+            "select": {
+                "id": "c1867623-5538-4e65-9f54-d573bee0da8d",
+                "name": "CORRECTIVA",
+                "color": "red"
+            }
+        },
+        "VALOR": {
+            "id": "uQ%3D%7C",
+            "type": "number",
+            "number": 20000
+        },
+        "Name": {
+            "id": "title",
+            "type": "title",
+            "title": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "oli",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "oli",
+                    "href": null
+                }
+            ]
+        }
+    },
+    "url": "https://www.notion.so/oli-0750666b7a214f828b7f62a54c761f98"
+}

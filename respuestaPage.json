@@ -1,0 +1,44 @@
+{
+    "object": "page",
+    "id": "5eab919e-ebcc-44ac-ae6e-743baae08d9e",
+    "created_time": "2021-11-17T20:44:00.000Z",
+    "last_edited_time": "2021-11-18T19:22:00.000Z",
+    "cover": {
+        "type": "external",
+        "external": {
+            "url": "https://www.notion.so/images/page-cover/nasa_bruce_mccandless_spacewalk.jpg"
+        }
+    },
+    "icon": null,
+    "parent": {
+        "type": "workspace",
+        "workspace": true
+    },
+    "archived": false,
+    "properties": {
+        "title": {
+            "id": "title",
+            "type": "title",
+            "title": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "playground",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "playground",
+                    "href": null
+                }
+            ]
+        }
+    },
+    "url": "https://www.notion.so/playground-5eab919eebcc44acae6e743baae08d9e"
+}
