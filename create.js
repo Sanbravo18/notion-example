@@ -1,7 +1,8 @@
-import { Client } from "@notionhq/client";
-import dotenv from "dotenv";
+const { Client } = require("@notionhq/client")
+const dotenv = require("dotenv")
 
-dotenv.config();
+
+dotenv.config()
 
 const notion = new Client({ auth: process.env.NOTION_KEY });
 const databaseId = process.env.NOTION_DATABASE_ID;
@@ -61,7 +62,7 @@ async function atack() {
           {
             type: "text",
             text: {
-              content: "oli2",
+              content: "angelica rica real",
             },
           },
         ],

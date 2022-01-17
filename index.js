@@ -1,7 +1,7 @@
-import dotenv from 'dotenv';
-import { Client } from "@notionhq/client"
+const { Client } = require("@notionhq/client")
+const dotenv = require("dotenv")
 
-dotenv.config();
+dotenv.config()
 
 const notion = new Client({ auth: process.env.NOTION_KEY })
 

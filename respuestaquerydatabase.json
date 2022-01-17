@@ -1,0 +1,777 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "093446eb-c753-42cd-a821-ca335431696b",
+            "created_time": "2021-11-18T23:58:00.000Z",
+            "last_edited_time": "2021-11-18T23:58:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "cosa 3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "cosa 3",
+                            "href": null
+                        }
+                    ]
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": 4123
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "servicio 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "servicio 2",
+                            "href": null
+                        }
+                    ]
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2021-11-26",
+                        "end": null
+                    }
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": {
+                        "id": "9980a990-6c1c-4271-ae68-04b19921ca75",
+                        "name": "PREVENTIVA",
+                        "color": "yellow"
+                    }
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": 20000
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Copy of ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Copy of ",
+                            "href": null
+                        },
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "oli2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "oli2",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Copy-of-oli2-093446ebc75342cda821ca335431696b"
+        },
+        {
+            "object": "page",
+            "id": "7aca55a6-c9bc-4519-8533-6be7911d3be3",
+            "created_time": "2021-11-18T23:57:00.000Z",
+            "last_edited_time": "2021-11-18T23:57:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": null
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": null
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": null
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": null
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "lsdjflksad",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "lsdjflksad",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/lsdjflksad-7aca55a6c9bc451985336be7911d3be3"
+        },
+        {
+            "object": "page",
+            "id": "bd602ec5-0f19-4d0a-9e79-53452437b3fa",
+            "created_time": "2021-11-18T23:19:00.000Z",
+            "last_edited_time": "2021-11-18T23:19:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": null
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": null
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": null
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": null
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": []
+                }
+            },
+            "url": "https://www.notion.so/bd602ec50f194d0a9e7953452437b3fa"
+        },
+        {
+            "object": "page",
+            "id": "f323dcf0-222a-4686-8b23-92602d55389c",
+            "created_time": "2021-11-18T23:17:00.000Z",
+            "last_edited_time": "2021-11-18T23:18:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "546546",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "546546",
+                            "href": null
+                        }
+                    ]
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": 13313
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "ffasfasf",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "ffasfasf",
+                            "href": null
+                        }
+                    ]
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2021-11-26",
+                        "end": null
+                    }
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": {
+                        "id": "9980a990-6c1c-4271-ae68-04b19921ca75",
+                        "name": "PREVENTIVA",
+                        "color": "yellow"
+                    }
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": 12346
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "oli6",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "oli6",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/oli6-f323dcf0222a46868b2392602d55389c"
+        },
+        {
+            "object": "page",
+            "id": "709d13f1-6d1c-489f-8951-ed7dfda216a4",
+            "created_time": "2021-11-18T23:00:00.000Z",
+            "last_edited_time": "2021-11-18T23:19:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": null
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": null
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": {
+                        "id": "7b5b356d-2463-4cb6-b240-25f77428b756",
+                        "name": "CHEQUEO GENERAL",
+                        "color": "blue"
+                    }
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": null
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "ol3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "ol3",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/ol3-709d13f16d1c489f8951ed7dfda216a4"
+        },
+        {
+            "object": "page",
+            "id": "d378c41b-838b-49fb-84bd-a03b0a495fd2",
+            "created_time": "2021-11-18T21:53:00.000Z",
+            "last_edited_time": "2021-11-18T21:53:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "cosa 3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "cosa 3",
+                            "href": null
+                        }
+                    ]
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": 4123
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "servicio 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "servicio 2",
+                            "href": null
+                        }
+                    ]
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2021-11-26",
+                        "end": null
+                    }
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": {
+                        "id": "9980a990-6c1c-4271-ae68-04b19921ca75",
+                        "name": "PREVENTIVA",
+                        "color": "yellow"
+                    }
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": 20000
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "oli2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "oli2",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/oli2-d378c41b838b49fb84bda03b0a495fd2"
+        },
+        {
+            "object": "page",
+            "id": "06bb102c-0801-48de-8e75-5a23712c0ac7",
+            "created_time": "2021-11-18T21:52:00.000Z",
+            "last_edited_time": "2021-11-18T23:17:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "cosa 4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "cosa 4",
+                            "href": null
+                        }
+                    ]
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": 4123
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "servicio 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "servicio 2",
+                            "href": null
+                        }
+                    ]
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2021-11-28",
+                        "end": null
+                    }
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": {
+                        "id": "9980a990-6c1c-4271-ae68-04b19921ca75",
+                        "name": "PREVENTIVA",
+                        "color": "yellow"
+                    }
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": 20000
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "oli2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "oli2",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/oli2-06bb102c080148de8e755a23712c0ac7"
+        },
+        {
+            "object": "page",
+            "id": "0750666b-7a21-4f82-8b7f-62a54c761f98",
+            "created_time": "2021-11-17T20:44:00.000Z",
+            "last_edited_time": "2021-11-18T18:55:00.000Z",
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "727658a3-758b-48c3-a556-d20cdb4c4a38"
+            },
+            "archived": false,
+            "properties": {
+                "PATENTE": {
+                    "id": "%3EWPa",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "dsfsdaf64",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "dsfsdaf64",
+                            "href": null
+                        }
+                    ]
+                },
+                "OT": {
+                    "id": "KQ%7BM",
+                    "type": "number",
+                    "number": 4123
+                },
+                "SERVICIO": {
+                    "id": "_MiW",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "dsgasgasdgasdgdasgsad",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "dsgasgasdgasdgdasgsad",
+                            "href": null
+                        }
+                    ]
+                },
+                "FECHA": {
+                    "id": "lrW%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2021-11-25",
+                        "end": null
+                    }
+                },
+                "TIPO DE MANTENCIÓN": {
+                    "id": "pkb%3C",
+                    "type": "select",
+                    "select": {
+                        "id": "c1867623-5538-4e65-9f54-d573bee0da8d",
+                        "name": "CORRECTIVA",
+                        "color": "red"
+                    }
+                },
+                "VALOR": {
+                    "id": "uQ%3D%7C",
+                    "type": "number",
+                    "number": 20000
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "oli",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "oli",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/oli-0750666b7a214f828b7f62a54c761f98"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false
+}

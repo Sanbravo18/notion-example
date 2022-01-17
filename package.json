@@ -1,18 +1,17 @@
 {
-  "name": "notion-example",
-  "type": "module",
+  "name": "database-update-send-email",
   "version": "1.0.0",
+  "description": "Send an email with SendGrid when an update is made in Notion.",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
   "dependencies": {
-    "@notionhq/client": "^0.1.9",
+    "@notionhq/client": "^0.4.2",
+    "@sendgrid/mail": "^7.6.0",
     "dotenv": "^10.0.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Aman Gupta",
+  "license": "MIT"
 }

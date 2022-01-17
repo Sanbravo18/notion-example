@@ -1,0 +1,23 @@
+{
+  object: 'page',
+  id: '093446eb-c753-42cd-a821-ca335431696b',
+  created_time: '2021-11-18T23:58:00.000Z',
+  last_edited_time: '2021-11-18T23:58:00.000Z',
+  cover: null,
+  icon: null,
+  parent: {
+    type: 'database_id',
+    database_id: '727658a3-758b-48c3-a556-d20cdb4c4a38'
+  },
+  archived: false,
+  properties: {
+    PATENTE: { id: '>WPa', type: 'rich_text     ', rich_text: [Array] },
+    OT: { id: 'KQ{M', type: 'number', number: 4123 },
+    SERVICIO: { id: '_MiW', type: 'rich_text', rich_text: [Array] },
+    FECHA: { id: 'lrW=', type: 'date', date: [Object] },
+    'TIPO DE MANTENCIÓN': { id: 'pkb<', type: 'select', select: [Object] },
+    VALOR: { id: 'uQ=|', type: 'number', number: 20000 },
+    Name: { id: 'title', type: 'title', title: [Array] }
+  },
+  url: 'https://www.notion.so/Copy-of-oli2-093446ebc75342cda821ca335431696b'
+}
