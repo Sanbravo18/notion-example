@@ -1,15 +1,13 @@
 const { Client } = require("@notionhq/client");
-const dotenv = require("dotenv");
 
-dotenv.config();
+const notion = new Client({
+  auth: "secret_VPGxLKKwdy36r8DcASPGHqoj813vusTXG7IOsztiQuo",
+});
 
-const notion = new Client({ auth: process.env.NOTION_KEY });
-const databaseId = process.env.NOTION_DATABASE_EQUIPMENTS_ID;
-
-async function atack() {
+(async () => {
   const response = await notion.pages.create({
     parent: {
-      database_id: databaseId,
+      database_id: "7245ff7e603140388cb301964fc3e8a1",
     },
     properties: {
       Nombre: {
@@ -68,6 +66,4 @@ async function atack() {
     },
   });
   console.log(response);
-}
-
-atack();
+})();
